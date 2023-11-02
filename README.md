@@ -1,3 +1,5 @@
+# MAD_Practical1_21012011155
+
 1.1 Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
     <img width="300" alt="Screenshot 2023-10-01 at 12 12 24 PM" src="https://github.com/Parth1820/MAD_Practical-1_21012011155/assets/139493808/01d50d04-4a67-4a0a-b554-f025a98a5ec3">
 1.2 type conversion: Integer to Double, String to Integer, String to Double.
